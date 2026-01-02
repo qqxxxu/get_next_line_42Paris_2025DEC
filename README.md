@@ -5,6 +5,7 @@ This project creates a function that reads line by line from a file and the stan
 As for method, I am using the string method, instead of the linked list one.
 
 **Instructions**
+
 How to compile the project: 
 1) testing this function using the main.c file written below:
 
