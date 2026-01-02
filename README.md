@@ -1,6 +1,7 @@
 *This project has been created as part of the 42 curriculum by qixu.*
 
 **Description**
+
 This project creates a function that reads line by line from a file and the standard input. It will return each line that was read. If an error occurs, or at the end of a file(EOF), NULL will be returned.
 As for method, I am using the string method, instead of the linked list one.
 
@@ -48,6 +49,7 @@ int main(int argc, char **argv)
 2) cc -Wall -Wextra -Werror -D BUFFER_SIZE=n <files>.c
 
 **Resources**
+
 1. Youtube tutorial: https://www.youtube.com/watch?v=xgDSXNOHTIA
 2. Gitbook: https://42-cursus.gitbook.io/guide/1-rank-01/get_next_line
 3. Tester: https://github.com/kodpe/gnl-station-tester?tab=readme-ov-file
